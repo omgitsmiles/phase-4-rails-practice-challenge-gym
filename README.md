@@ -64,6 +64,13 @@ Write migrations to create the following tables:
 
 A user should be able to:
 
+- DB Routes: 
+  Membership: create
+  Gym: show
+  Gym: destroy
+  Client: show
+  
+
 - **Create a new membership**
 
   - New membership require a gym_id, client_id, and membership charge.
